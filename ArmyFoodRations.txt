@@ -1,0 +1,267 @@
+ИРП:
+Fruck_IRP_Packed
+Fruck_IRPcookies
+Fruck_IRPcookies_Blue
+Fruck_IRPdish
+Fruck_IRPlard
+Fruck_IRPlard2
+Fruck_IRPmeatInSauce
+Fruck_IRPpeasWithMeat
+НОЖ/knife:
+Fruck_KnifeGTI3
+
+MRE:
+Fruck_MRE_Packed
+Fruck_MRE_BREAD_Packed
+Fruck_MRE_Tortilla_Packed
+
+Fruck_MRE_BREAD
+Fruck_MRE_Jam
+Fruck_MRE_MainCourse
+Fruck_MRE_Bulka
+Fruck_MRE_Tortilla
+НОЖ/knife:
+Fruck_KnifeRUI
+
+Types:
+
+    <type name="Fruck_IRP_Packed">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_IRPcookies">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_IRPcookies_Blue">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_IRPdish">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_IRPlard">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_IRPlard2">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_IRPmeatInSauce">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_IRPpeasWithMeat">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_KnifeGTI3">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_MRE_Packed">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_MRE_BREAD_Packed">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_MRE_Tortilla_Packed">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_MRE_BREAD">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_MRE_Jam">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_MRE_MainCourse">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_MRE_Bulka">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+
+    <type name="Fruck_MRE_Tortilla">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+    <type name="Fruck_KnifeRUI">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>500</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier34"/>
+    </type>
+
+
+
+
+
